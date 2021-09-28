@@ -1,0 +1,51 @@
+.center{
+    text-align: center;
+} 
+.negrita{
+    font-weight: bold;
+}
+
+
+h1 {
+    text-align: center;
+    font-family: Times New Roman;
+    font-style: normal;
+    font-weight: bold;  
+    color: #005677;
+    background-color:#C4C4C4;
+    word-spacing: 13px;
+}
+
+
+body h3 {
+    font-family: Times New Roman;
+    font-style: normal;
+    font-weight: bold;
+    background-color:#C4C4C4;
+    color: #005677;
+    word-spacing: 8px;
+}
+ul li span {
+    font-family: Times New Roman;
+    font-style: italic;
+    font-weight: bold; 
+}
+
+div ul li span {
+    
+    font-family: Times New Roman;
+    font-style: normal;
+    font-weight: bold;
+}
+div li {
+    list-style: none;
+}
+
+footer {
+    align-content: center;
+    background:#005677;
+    color:#ffffff;
+}
+
+
+
